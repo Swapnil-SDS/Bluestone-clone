@@ -43,7 +43,7 @@ This is the clone of bluestone website which we made in Unit-2 construct week.
 - Km. Rinki
 - Aman Kumar
 - Hemant Ramdatt Prajapati
-- Swapnil Dayaram Shende
+- Swapnil Shende
 - Purimetla Murali Krishna
 - Rohini Kushwaha
 
